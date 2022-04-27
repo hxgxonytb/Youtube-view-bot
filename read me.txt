@@ -1,0 +1,18 @@
+Hello everyone
+I started this script with the idea of ​​helping someone.
+
+
+To use it:
+
+- install with the pip tool:
+pip install selenium
+
+- import your chrome driver in the YouTube bot views folder
+
+- change the link of the video
+
+- run YouTube.py
+
+Enjoy!
+
+Support me for free : https://www.youtube.com/channel/UCh9v3lbmrkWjl3Py5aRvYiQ
